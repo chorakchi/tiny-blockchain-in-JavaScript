@@ -1,6 +1,7 @@
 # tiny-blockchain-in-JavaScript
 This project a starter of Implementing a basic blockchain, Implementing proof-of-work, Transactions &amp; mining rewards
 
+<img src="https://www.draglet.com/wp-content/uploads/2017/02/Private-Blockchain-1.png">
 
 ## Blockchain Structure
 
